@@ -1,0 +1,19 @@
+**/*.pyc
+*.png
+models/epoch-*
+.ipynb*
+__pycache__
+datasets
+
+models/*
+datasets/*
+*.log
+*.csv
+
+**/.DS_Store
+**/*.swp
+
+# Latex tmp files.
+**/*.aux
+**/*.fdb_latexmk
+**/texput.fls
