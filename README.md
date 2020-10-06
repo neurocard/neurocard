@@ -106,11 +106,15 @@ This repo was written by
 
 ## Citation
 ```bibtex
-@article{neurocard,
-  title={NeuroCard: One Cardinality Estimator for All Tables},
+@inproceedings{neurocard,
+  title={{NeuroCard}: One Cardinality Estimator for All Tables},
   author={Yang, Zongheng and Kamsetty, Amog and Luan, Sifei and Liang, Eric and Duan, Yan and Chen, Xi and Stoica, Ion},
-  journal={arXiv preprint arXiv:2006.08109},
-  year={2020}
+  journal={Proceedings of the VLDB Endowment},
+  volume={14},
+  number={1},
+  pages={61--73},
+  year={2021},
+  publisher={VLDB Endowment}
 }
 ```
 *Related projects.* NeuroCard builds on top of [Naru](https://github.com/naru-project/naru) and [Variable Skipping](http://var-skip.github.io/).
